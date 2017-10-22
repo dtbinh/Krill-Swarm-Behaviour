@@ -43,8 +43,8 @@ We expect that high variance in swimming speed and slow individuals slow down th
 
 To get the general information about krill we will use the book "Biology and Ecology of Antarctic Krill" and papers they refer to.
 
-[1] Siegel, Volker: Biology and Ecology of Antarctic Krill, 2016 <br />
-[2] Hofmann et al.: Lagrangian modelling studies of Antarctic krill ( Euphausia superba ) swarm formation, 2004
+[1] Siegel, Volker: Biology and Ecology of Antarctic Krill, ISBN 978-3-319-29277-9, 2016 <br />
+[2] Hofmann et al.: Lagrangian modelling studies of Antarctic krill ( Euphausia superba ) swarm formation, ICES J. Marine Science 61, 617, https://doi.org/10.1016/j.icesjms.2004.03.028, 2004
 
 
 ## Research Methods
