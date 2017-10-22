@@ -1,7 +1,7 @@
 # MATLAB Fall 2017 – Research Plan
 
 > * Group Name: The Krillians
-> * Group participants names: Jules Bachmann, Felix Sarnthein, Anna ? , Laura Wülfroth
+> * Group participants names: Jules Bachmann, Anna Jaeggi, Felix Sarnthein, Laura Wülfroth
 > * Project Title: Krill Swarm Behaviour
 
 ## General Introduction
