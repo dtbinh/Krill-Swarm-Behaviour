@@ -1,4 +1,4 @@
-# MATLAB Fall 2014 – Research Plan
+# MATLAB Fall 2017 – Research Plan
 
 > * Group Name: The Krillians
 > * Group participants names: Jules Bachmann, Felix Sarnthein, Anna ? , Laura Wülfroth
