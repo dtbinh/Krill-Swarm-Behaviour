@@ -1,13 +1,13 @@
 clear;close all;
 
-%Positionen von krills (Zufällig)
+%Positionen von krills (ZufÃ¤llig)
 k=rand(10,2);
 R=0.2;
 
-%Bewegungsvektor (Zufällig)
+%Bewegungsvektor (ZufÃ¤llig)
 v0=rand(10,2)-0.5;
 
-%Zeit für Simulation
+%Zeit fÃ¼r Simulation
 tmax=10;
 tstep=0.1;
 
@@ -19,7 +19,7 @@ hold on;
 
 for t=1:tmax/tstep
     
-    %Für jeden Zeitschritt verschiebung um v*t
+    %FÃ¼r jeden Zeitschritt verschiebung um v*t
     for i=1:length(k)
     k(i,1)=k(i,1)+v0(i,1)*tstep;
     k(i,2)=k(i,2)+v0(i,2)*tstep;
